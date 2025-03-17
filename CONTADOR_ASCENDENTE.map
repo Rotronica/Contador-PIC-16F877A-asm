@@ -1,0 +1,52 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Mar 16 23:21:34 2025
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00006c
+.config_2007_CONTADOR_ASCENDENTE.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000035      
+                            0x002007    0x002007      
+            55 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BUCLE1   0x00002f    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                   BUCLE2   0x00002d    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                   BUCLE3   0x00002b    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+               CONFIGURAR   0x000001    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                 CONTADOR   0x000017    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+       ESPERA_DEJA_PULSAR   0x000010    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                     MAIN   0x000009    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+             RETARDO_20MS   0x000029    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                TABLA_DEC   0x00001e    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+               VISUALIZAR   0x000013    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+               CONFIGURAR   0x000001    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                     MAIN   0x000009    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+       ESPERA_DEJA_PULSAR   0x000010    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+               VISUALIZAR   0x000013    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                 CONTADOR   0x000017    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                TABLA_DEC   0x00001e    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+             RETARDO_20MS   0x000029    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                   BUCLE3   0x00002b    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                   BUCLE2   0x00002d    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+                   BUCLE1   0x00002f    program     static E:\AUXILIAR\SEM 1-2025 AUX MICRO\CLASE_3\CONTADOR_ASCENDENTE.asm
+
+
